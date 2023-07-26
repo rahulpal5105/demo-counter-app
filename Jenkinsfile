@@ -1,6 +1,6 @@
 pipeline{
     
-    agent slavejob
+    agent any
     
     stages {
         
